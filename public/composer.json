@@ -1,0 +1,6 @@
+{
+    "require": {
+        "jaeger/querylist": "V3.2.1",
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}
